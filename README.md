@@ -10,3 +10,8 @@ git branch
 git add
 git commit
 git push
+
+Here are some new dummy git commands added on the develop branch:
+git dummy1
+git dummy2
+git dummy3
