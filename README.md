@@ -11,3 +11,8 @@ git status<br>
 git add<br>
 git commit<br>
 git push
+
+Here are some new dummy git commands added on the develop branch:
+git dummy1
+git dummy2
+git dummy3
